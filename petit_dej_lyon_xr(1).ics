@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Reverto//AddToCalendar//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20250703T083000Z-lyonxr@reverto.fr
+DTSTAMP:20250610T152041Z
+DTSTART:20250703T063000Z
+DTEND:20250703T100000Z
+SUMMARY:Petit dej' Lyon XR
+DESCRIPTION:Reverto et France Immersive Learning vous invitent à un petit-déjeuner networking autour des technologies immersives.\n\nProgramme :\n• 8h30 – 9h : Accueil avec viennoiseries\n• 9h – 10h : Table ronde « Impact et futur des technologies immersives »\n• 10h – 12h : Démonstrations libres et réseautage\n\nCasting : Reverto, Speedernet, Chat3D, et bien d’autres invités.\n\nLieu : Le cube, 26 rue Emile Decorps 69100 Villeurbanne, France
+LOCATION:Le cube, 26 rue Emile Decorps 69100 Villeurbanne, France
+END:VEVENT
+END:VCALENDAR
